@@ -60,7 +60,8 @@ export default function GlassTiltCard() {
 
   return (
     <div className="perspective-[200px] w-full flex justify-center">
-    sdfsdf
+    sdfsdfas das dad asd
+    <aside><a href="sdasd"></a></aside>
       <div
         ref={cardRef}
         onMouseMove={handleMouseMove}
